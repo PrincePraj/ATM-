@@ -1,2 +1,3 @@
 # ATM-
 ATM DESKTOP APPLICATION 
+An ATM desktop application is a user-friendly software solution designed to simulate or manage the functionalities of an Automated Teller Machine (ATM) on a computer. It typically provides a secure interface for users to perform various banking operations such as checking account balances, withdrawing and depositing funds, transferring money, and viewing transaction histories. The application may include features such as user authentication via PIN or password, account management, and error handling for invalid transactions. It is often used for educational purposes, banking simulations, or as a prototype in the development of ATM software systems.
